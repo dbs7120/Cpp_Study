@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
-	std::cout << "chapter 1" << std::endl;
+	using namespace std;
+	cout << "chapter 1" << endl;
 	return 0;
 }
