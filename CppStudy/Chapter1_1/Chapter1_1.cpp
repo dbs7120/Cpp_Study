@@ -1,9 +1,12 @@
 /*
 	인프런 홍정모의 따라하며 배우는 C++
-	주석
-	변수 l-value, r-value https://effort4137.tistory.com/entry/Lvalue-Rvalue
-	변수는 초기화 필요
-	입출력 스트림
+
+	*주석
+
+	*변수 l-value, r-value https://effort4137.tistory.com/entry/Lvalue-Rvalue
+	 변수는 초기화 필요
+
+	*입출력 스트림 cout, cin, endl
 */
 
 #include <iostream>	// cout, cin, endl, ...
