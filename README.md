@@ -30,4 +30,10 @@ https://github.com/dbs7120/Cpp_Study/blob/master/CppStudy/Chapter3_2/Chapter3_2.
 https://github.com/dbs7120/Cpp_Study/blob/master/CppStudy/Chapter3_3/Chapter3_3.cpp
 
 **4. 변수 범위와 더 다양한 변수형**  
-- Chapter 4_1		// 
+- Chapter 4_1		// 지역변수범위,지속시간, 전역,정적 변수, 내부,외부 연결(Linkage)
+https://github.com/dbs7120/Cpp_Study/blob/master/CppStudy/Chapter4_1/Chapter4_1.cpp
+- Chapter 4_2		// 
+
+
+
+
